@@ -1,4 +1,4 @@
-### 🗄️ SQL Query Visualizer
+# 🗄️ SQL Query Visualizer
 
 An interactive web application for learning SQL with real-time query execution, visual results.
 
